@@ -4,7 +4,7 @@
 }
 
 body{
-	background-color: #434c56;
+	background-color: #fff2e6;
 	overflow: auto;
 }
 
@@ -24,9 +24,9 @@ p{
 
 .page{
 	width: 80%;
-	background-color: #6e8091;
+	
 	margin:auto;
 	padding: 20px;
 	text-align: center;
-	color: #e6ffff;
+	color: #ff9999;
 }
