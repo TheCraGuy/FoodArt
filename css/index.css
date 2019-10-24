@@ -21,6 +21,21 @@ p{
 
 }
 
+.bot{}
+.one{
+
+position: absolute;
+background-color: ;
+top: 50%;
+left: 50%;
+transform: translate(-50%, 0%);
+}
+ .hero-image {
+      background-color: #fff2e6; /* Used if the image is unavailable */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  }
 
 .page{
 	width: 80%;
